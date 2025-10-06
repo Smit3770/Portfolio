@@ -45,7 +45,7 @@ export default function Hero() {
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center pt-6">
             <a
-              href="https://drive.google.com/file/d/1hEKHs85tdqb4ARYVIiEWm2B5xSeGVXi2/view?usp=sharing"
+              href="https://drive.google.com/file/d/1FYnFsXIX_qbgI_TswZ5RW-t-QvIntwgj/view?usp=sharing"
               download="Smit_Resume.pdf"
               className="group inline-flex items-center px-8 py-4 bg-gradient-to-r from-cyan-500 to-blue-500 text-white rounded-xl hover:shadow-lg hover:shadow-cyan-500/50 transition-all duration-300 transform hover:scale-105 font-semibold"
               target='_blank'
